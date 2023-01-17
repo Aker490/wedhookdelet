@@ -10,4 +10,4 @@ pkg install python
 pkg installl git
 git clone https://github.com/Jsisys/wedhookdelet 
 cd webhookdelet
-python webhookspam.py
+python webhookdelet.py
